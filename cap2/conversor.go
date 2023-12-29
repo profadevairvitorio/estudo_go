@@ -1,6 +1,6 @@
 // EXEMPLO 1: CONVERSOR DE MEDIDAS
 //O primeiroexemplo é um simplesconversor de medidas.
-//Ele aceita como en- trada uma lista de valores com sua unidade demedida, e produz uma lista de valores convertidos.
+//Ele aceita como en- trada uma lista de valores com sua unidade de medida, e produz uma lista de valores convertidos.
 //Por questões didáticas, o conversor trabalha apenas com dois tipos de conversões: de graus Celsius para Fahrenheit,
 //e de quilômetros pra milhas.
 
