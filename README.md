@@ -10,4 +10,4 @@ Este repositório é dedicado ao meu estudo da linguagem de programação Go, co
 2) Quicksort [quicksort.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap2/quicksort.go)
 
 ## Capítulo 3: Indo além 
-1) Mapas e Estatísticas
+1) Mapas e Estatísticas [maps.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap3/maps.go)
