@@ -12,3 +12,9 @@ Este repositório é dedicado ao meu estudo da linguagem de programação Go, co
 ## Capítulo 3: Indo além 
 1) Mapas e Estatísticas [maps.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap3/maps.go)
 1) Pilha [pilha.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap3/pilha.go)
+
+## Capítulo 4: Coleções: arrays, slices e maps
+1) Loop Infinito [loop_infinito.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/loop_infinito.go)
+2) Loop Nomeado [loop_nomeado.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/loop_nomeado.g)
+3) Uso de Struct [estados.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/estados.g)
+4) Map Ordenado [mapa_ordeando.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/mapa_ordenado.g)
