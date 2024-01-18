@@ -21,3 +21,4 @@ Este repositório é dedicado ao meu estudo da linguagem de programação Go, co
 
 ## Capítulo 5: Criando novos tipos
 1) Lista de compras [compras.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap5/compras.go)
+2) Conversão [conversao.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap5/conversao.go)
