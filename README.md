@@ -18,3 +18,6 @@ Este repositório é dedicado ao meu estudo da linguagem de programação Go, co
 2) Loop Nomeado [loop_nomeado.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/loop_nomeado.g)
 3) Uso de Struct [estados.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/estados.g)
 4) Map Ordenado [mapa_ordeando.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap4/mapa_ordenado.g)
+
+## Capítulo 5: Criando novos tipos
+1) Lista de compras [compras.go](https://github.com/profadevairvitorio/estudo_go/blob/main/cap5/compras.go)
