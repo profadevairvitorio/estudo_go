@@ -16,6 +16,7 @@ func main() {
 	lista := ListaDeCompras{"Alface", "Atum", "Azeite"}
 	slice := []string{"Alface", "Atum", "Azeite"}
 
+	// casting or type conversion
 	imprimirSlice([]string(lista))
 	imprimirLista(ListaDeCompras(slice))
 }
